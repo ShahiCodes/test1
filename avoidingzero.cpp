@@ -2,9 +2,9 @@
 using namespace std;
 
 int main (){
-    int t;
-    cin >> t;
-    while(t--){
+    int t1;
+    cin >> t1;
+    while(t1--){
         int n;
         int sum1=0,sum2=0;
         bool asc = true;
